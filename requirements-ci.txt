@@ -7,4 +7,4 @@ flake8-docstrings==1.7.0
 flake8-import-order==0.19.2
 reorder-python-imports==3.16.0
 # tests
-pytest==9.0.1
+pytest==9.0.2
